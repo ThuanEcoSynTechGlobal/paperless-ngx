@@ -1,6 +1,8 @@
-# 📄 Paperless-NGX — Hệ Thống Quản Lý Tài Liệu Kỹ Thuật Số
+# Paperless-NGX — Hệ Thống Quản Lý Tài Liệu Kỹ Thuật Số
 
-> **Fork bởi ThuanEcoSynTechGlobal** | Dự án gốc: [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+> Fork cá nhân bởi [ThuanEcoSynTechGlobal](https://github.com/ThuanEcoSynTechGlobal)  
+> Dự án gốc: [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)  
+> README gốc: [English](https://github.com/paperless-ngx/paperless-ngx/blob/main/README.md)
 
 ## Giới thiệu
 
@@ -8,15 +10,13 @@
 
 ## Tính năng chính
 
-- 📸 **Quét & OCR tự động**: nhận dạng chữ từ ảnh/PDF, tìm kiếm được
-- 🏷 **Phân loại thông minh**: tự động gắn tag, loại tài liệu, người gửi
-- 🔍 **Tìm kiếm mạnh mẽ**: full-text search, filter theo tag, ngày, loại
-- 📊 **Dashboard trực quan**: thống kê tài liệu theo thời gian
-- 📱 **PWA**: dùng trên mobile, máy tính bảng
-- 🤖 **Machine Learning**: tự học cách phân loại tài liệu của bạn
-- 🔐 **Bảo mật**: đăng nhập, phân quyền, HTTPS
-- 🐳 **Docker**: triển khai 1 câu lệnh
-- 🌐 **Đa ngôn ngữ**: hỗ trợ tiếng Việt
+- 📸 Quét & OCR tự động: nhận dạng chữ từ ảnh/PDF, tìm kiếm được
+- 🏷 Phân loại thông minh: tự động gắn tag, loại tài liệu, người gửi
+- 🔍 Tìm kiếm mạnh mẽ: full-text search, filter theo tag, ngày, loại
+- 📊 Dashboard trực quan: thống kê tài liệu theo thời gian
+- 📱 PWA: dùng trên mobile, máy tính bảng
+- 🤖 Machine Learning: tự học cách phân loại tài liệu của bạn
+- 🔐 Bảo mật: đăng nhập, phân quyền, HTTPS
 
 ## Triển khai nhanh
 
@@ -26,8 +26,8 @@ docker compose up -d
 
 (Xem file `docker-compose.yml` trong repo để cấu hình chi tiết)
 
-## Mục đích fork
+## README tiếng Việt
 
-Dùng để lưu trữ và quản lý hồ sơ nông nghiệp: chứng nhận VietGAP/GlobalGAP, nhật ký canh tác, hóa đơn, hợp đồng bao tiêu, kết quả kiểm nghiệm — phục vụ truy xuất nguồn gốc sản phẩm.
+Đây là bản README tiếng Việt do cá nhân tôi thực hiện để dễ tra cứu và sử dụng. Tài liệu gốc bằng tiếng Anh đầy đủ hơn vui lòng xem tại repo chính.
 
 🌐 https://github.com/ThuanEcoSynTechGlobal
